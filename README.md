@@ -20,9 +20,9 @@ You will also see any lint errors in the console.
 
 ![image-rules-bonus](https://user-images.githubusercontent.com/79754424/130335417-d64d36ca-47a6-4853-a409-a3b396081163.png)
 
-Still Confused ? 🤔 let sheldon explain you the concept behind this revolutionary game
+Still Confused ? 🤔 let Sheldon explain you the concept behind this revolutionary game
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iSHPVCBsnLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/iSHPVCBsnLw
 
 
 
