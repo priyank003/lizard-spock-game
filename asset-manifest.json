@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/lizard-spock-game/static/css/main.c5a0e5f3.chunk.css",
+    "main.js": "/lizard-spock-game/static/js/main.89fa6ae1.chunk.js",
+    "main.js.map": "/lizard-spock-game/static/js/main.89fa6ae1.chunk.js.map",
+    "runtime-main.js": "/lizard-spock-game/static/js/runtime-main.c6fe7d20.js",
+    "runtime-main.js.map": "/lizard-spock-game/static/js/runtime-main.c6fe7d20.js.map",
+    "static/js/2.208d0035.chunk.js": "/lizard-spock-game/static/js/2.208d0035.chunk.js",
+    "static/js/2.208d0035.chunk.js.map": "/lizard-spock-game/static/js/2.208d0035.chunk.js.map",
+    "static/js/3.cfcaf0cd.chunk.js": "/lizard-spock-game/static/js/3.cfcaf0cd.chunk.js",
+    "static/js/3.cfcaf0cd.chunk.js.map": "/lizard-spock-game/static/js/3.cfcaf0cd.chunk.js.map",
+    "static/js/4.6a3fa95e.chunk.js": "/lizard-spock-game/static/js/4.6a3fa95e.chunk.js",
+    "static/js/4.6a3fa95e.chunk.js.map": "/lizard-spock-game/static/js/4.6a3fa95e.chunk.js.map",
+    "index.html": "/lizard-spock-game/index.html",
+    "static/css/main.c5a0e5f3.chunk.css.map": "/lizard-spock-game/static/css/main.c5a0e5f3.chunk.css.map",
+    "static/js/2.208d0035.chunk.js.LICENSE.txt": "/lizard-spock-game/static/js/2.208d0035.chunk.js.LICENSE.txt",
+    "static/js/3.cfcaf0cd.chunk.js.LICENSE.txt": "/lizard-spock-game/static/js/3.cfcaf0cd.chunk.js.LICENSE.txt",
+    "static/media/icon-close.bde602ec.svg": "/lizard-spock-game/static/media/icon-close.bde602ec.svg",
+    "static/media/icon-lizard.0f83914c.svg": "/lizard-spock-game/static/media/icon-lizard.0f83914c.svg",
+    "static/media/icon-paper.8b57a6b1.svg": "/lizard-spock-game/static/media/icon-paper.8b57a6b1.svg",
+    "static/media/icon-rock.476e90a9.svg": "/lizard-spock-game/static/media/icon-rock.476e90a9.svg",
+    "static/media/icon-scissors.3b1a5d7e.svg": "/lizard-spock-game/static/media/icon-scissors.3b1a5d7e.svg",
+    "static/media/icon-spock.f4d7eee8.svg": "/lizard-spock-game/static/media/icon-spock.f4d7eee8.svg",
+    "static/media/image-rules-bonus.513320fb.svg": "/lizard-spock-game/static/media/image-rules-bonus.513320fb.svg",
+    "static/media/logo-bonus.9bf8aeb8.svg": "/lizard-spock-game/static/media/logo-bonus.9bf8aeb8.svg",
+    "static/media/mixkit-lose.183e2b8a.wav": "/lizard-spock-game/static/media/mixkit-lose.183e2b8a.wav",
+    "static/media/mixkit-win.9b5b1a62.wav": "/lizard-spock-game/static/media/mixkit-win.9b5b1a62.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6fe7d20.js",
+    "static/js/2.208d0035.chunk.js",
+    "static/css/main.c5a0e5f3.chunk.css",
+    "static/js/main.89fa6ae1.chunk.js"
+  ]
+}
