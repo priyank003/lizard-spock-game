@@ -16,4 +16,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+##Rules of the game
+
+![image-rules-bonus](https://user-images.githubusercontent.com/79754424/130335417-d64d36ca-47a6-4853-a409-a3b396081163.png)
+
+
+
 
