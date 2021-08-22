@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lizard-spock-game/static/css/main.c5a0e5f3.chunk.css",
-    "main.js": "/lizard-spock-game/static/js/main.89fa6ae1.chunk.js",
-    "main.js.map": "/lizard-spock-game/static/js/main.89fa6ae1.chunk.js.map",
+    "main.js": "/lizard-spock-game/static/js/main.a4f63ca2.chunk.js",
+    "main.js.map": "/lizard-spock-game/static/js/main.a4f63ca2.chunk.js.map",
     "runtime-main.js": "/lizard-spock-game/static/js/runtime-main.c6fe7d20.js",
     "runtime-main.js.map": "/lizard-spock-game/static/js/runtime-main.c6fe7d20.js.map",
     "static/js/2.208d0035.chunk.js": "/lizard-spock-game/static/js/2.208d0035.chunk.js",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.c6fe7d20.js",
     "static/js/2.208d0035.chunk.js",
     "static/css/main.c5a0e5f3.chunk.css",
-    "static/js/main.89fa6ae1.chunk.js"
+    "static/js/main.a4f63ca2.chunk.js"
   ]
 }
