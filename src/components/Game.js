@@ -8,7 +8,8 @@ import spock from "../assets/images/icon-spock.svg";
 // eslint-disable-next-line
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
-const Game = () => {
+const Game = (props) => {
+  props.confetBool(null);
   const getRandomNumber = () => {
     return Math.floor(Math.random() * 5 + 1);
   };
@@ -30,7 +31,7 @@ const Game = () => {
               {" "}
               <IconWrapper>
                 <ScissorsWrapper id={1} onClick={clickHandler}>
-                  <Scissors id={1} src={scissors}></Scissors>
+                  <Scissors id={1} src={scissors} alt="scissors"></Scissors>
                 </ScissorsWrapper>
               </IconWrapper>
             </Link>
@@ -41,7 +42,7 @@ const Game = () => {
               <IconWrapper>
                 {" "}
                 <SpockWrapper id={5} onClick={clickHandler}>
-                  <Spock id={5} src={spock}></Spock>
+                  <Spock id={5} src={spock} alt="spock"></Spock>
                 </SpockWrapper>
               </IconWrapper>
             </Link>
@@ -49,7 +50,7 @@ const Game = () => {
               <IconWrapper>
                 <PaperWrapper id={2} onClick={clickHandler}>
                   {" "}
-                  <Paper id={2} src={paper}></Paper>
+                  <Paper id={2} src={paper} alt="paper"></Paper>
                 </PaperWrapper>
               </IconWrapper>
             </Link>
@@ -59,7 +60,7 @@ const Game = () => {
             <Link to="/gameresult">
               <IconWrapper>
                 <LizardWrapper id={4} onClick={clickHandler}>
-                  <Lizard id={4} src={lizard}></Lizard>
+                  <Lizard id={4} src={lizard} alt="lizard"></Lizard>
                 </LizardWrapper>
               </IconWrapper>
             </Link>
@@ -67,7 +68,7 @@ const Game = () => {
               <IconWrapper>
                 <RockWrapper id={3} onClick={clickHandler}>
                   {" "}
-                  <Rock id={3} src={rock}></Rock>
+                  <Rock id={3} src={rock} alt="rock"></Rock>
                 </RockWrapper>
               </IconWrapper>
             </Link>

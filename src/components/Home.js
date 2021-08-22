@@ -55,7 +55,7 @@ const Home = () => {
             />{" "}
           </Route>
           <Route path="/">
-            <Game />
+            <Game confetBool={confetHandler} />
             <Rules onClick={clickHandler}>RULES</Rules>
           </Route>
         </Switch>
