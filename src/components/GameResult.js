@@ -131,7 +131,7 @@ const GameResult = (props) => {
                 : getResult() === true
                 ? "YOU WIN"
                 : "YOU LOST"}
-              <Link to="/">
+              <Link to="/lizard-spock-game">
                 <ResetBtn onClick={confetReset}>PLAY AGAIN</ResetBtn>
               </Link>
             </Resultwrap>
